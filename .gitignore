@@ -16,3 +16,6 @@ logs/
 # 开发临时文件
 icon-preview.png
 selftest-result.txt
+
+# 发布产物
+release/*.zip
