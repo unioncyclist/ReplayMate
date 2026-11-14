@@ -1,0 +1,18 @@
+# 构建输出
+bin/
+obj/
+publish/
+
+# 运行时产生的个人数据（白名单里的游戏路径、日志）
+config.json
+logs/
+
+# IDE / 工具
+.vs/
+*.user
+*.suo
+.idea/
+
+# 开发临时文件
+icon-preview.png
+selftest-result.txt
